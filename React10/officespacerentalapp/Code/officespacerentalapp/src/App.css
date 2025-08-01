@@ -1,0 +1,15 @@
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.App h1 {
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.App div {
+    display: inline-block;
+    vertical-align: top;
+}
