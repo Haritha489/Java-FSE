@@ -1,0 +1,20 @@
+* b939ec9 (HEAD -> main) Updated .gitignore to exclude backup files
+*   6e632bc Resolved merge conflict in hello.xml
+|\  
+| * fd62f0e Added hello.xml in GitWork branch
+* | 6ab660d Added hello.xml in Main branch
+|/  
+* f450398 (origin/main, origin/HEAD) Added Week8 Exercise 3 - Branching and Merging
+* 233a71f (GitNewBranch) Added branch-file.txt in GitNewBranch
+* 35caa56 Added Week8 Exercise 2 - Git Ignore
+* f555448 Added Week8 Exercise 1 - Git-HOL
+* e3a9e00 Move Week 7 folders into week7 directory
+*   ddb1024 Merge branch 'week7' # Please enter a commit message to explain why this merge is necessary,
+|\  
+| * 832720e Add Week 7 React conditional rendering lab
+* ac794d4 Added week6 folder
+* 3576930 Add files via upload
+* 0e4f623 Add files via upload
+* c7423e4 Add files via upload
+* b62ab4a Add files via upload
+* ee6709e Add files via upload
