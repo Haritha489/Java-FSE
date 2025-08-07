@@ -1,0 +1,10 @@
+Step 1: git --version
+Step 2: git config --global user.name "Haritha"
+Step 3: git config --global user.email "229X1A0272@gmail.com"
+Step 4: git config --list
+Step 5: mkdir GitDemo && cd GitDemo && git init
+Step 6: echo "Welcome to Git" > welcome.txt
+Step 7: git add welcome.txt
+Step 8: git commit
+Step 9: git remote add origin https://github.com/Haritha489/Java-FSE.git
+Step 10: git push origin master

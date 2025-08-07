@@ -1,0 +1,9 @@
+git version 2.45.1.windows.1
+user.name=Haritha
+user.email=229X1A0272@gmail.com
+Initialized empty Git repository in /.../GitDemo/.git/
+[master (root-commit) abc1234] Initial commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 welcome.txt
+To https://github.com/Haritha489/Java-FSE
+ * [new branch] master -> master
