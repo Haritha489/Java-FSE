@@ -1,0 +1,12 @@
+Step 1: git branch GitNewBranch
+Step 2: git branch
+Step 3: git checkout GitNewBranch
+Step 4: echo "This is content for GitNewBranch" > branch-file.txt
+Step 5: git add branch-file.txt
+Step 6: git commit -m "Added branch-file.txt in GitNewBranch"
+Step 7: git status
+Step 8: git checkout main
+Step 9: git diff GitNewBranch
+Step 10: git merge GitNewBranch
+Step 11: git log --oneline --graph --decorate
+Step 12: git branch -d GitNewBranch

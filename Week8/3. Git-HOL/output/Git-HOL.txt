@@ -1,0 +1,15 @@
+Switched to branch 'GitNewBranch'
+[GitNewBranch abc1234] Added branch-file.txt in GitNewBranch
+On branch GitNewBranch
+nothing to commit, working tree clean
+
+Switched to branch 'main'
+diff --git a/branch-file.txt b/branch-file.txt
+...
+
+Fast-forward
+ branch-file.txt | 1 +
+ create mode 100644 branch-file.txt
+
+* abc1234 (HEAD -> main) Added branch-file.txt in GitNewBranch
+* 35caa56 Previous commit message
