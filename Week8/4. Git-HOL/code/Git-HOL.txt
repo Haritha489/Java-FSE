@@ -1,19 +1,4 @@
-Step 1: git checkout main
-Step 2: git checkout -b GitWork
-Step 3: echo '<message>Hello from GitWork branch</message>' > hello.xml
-Step 4: git add hello.xml
-Step 5: git commit -m 'Added hello.xml in GitWork branch'
-Step 6: git checkout main
-Step 7: echo '<message>Hello from Main branch</message>' > hello.xml
-Step 8: git add hello.xml
-Step 9: git commit -m 'Added hello.xml in Main branch'
-Step 10: git merge GitWork
-Step 11: Resolved conflict in hello.xml using Notepad++
-Step 12: git add hello.xml
-Step 13: git commit -m 'Resolved merge conflict in hello.xml'
-Step 14: echo '*.orig' >> .gitignore
-Step 15: echo '*.bak' >> .gitignore
-Step 16: git add .gitignore
-Step 17: git commit -m 'Updated .gitignore to exclude backup files'
-Step 18: git branch -d GitWork
-Step 19: git log --oneline --graph --decorate
+Step 1: git status
+Step 2: git branch -a
+Step 3: git pull origin main
+Step 4: git push origin main
