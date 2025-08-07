@@ -1,0 +1,5 @@
+Step 1: mkdir -p log
+Step 2: echo "This is a log file" > error.log
+Step 3: echo "*.log" > .gitignore
+Step 4: echo "log/" >> .gitignore
+Step 5: git status
